@@ -1,3 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="web.css">
+</head>
+<body>
+    <div id="one">
+        <h3>Sensive</h3>
+        <h5>Home</h5>
+        <h5>Archive</h5>
+        <h5>Category</h5>
+        <h5>Pages</h5>
+        <h5>Contact</h5>
+    </div>
+    <div id="two">
+        <div id="three">
+            <h3>Tours & Travels</h3>
+            <h2>Amazing Places on earth</h2>
+        </div>
+    </div>
+    <div id="four">
+        <div id="overlay"></div>
+        <div id="five"></div>
+        <div id="six"></div>
+        <div id="seven"></div>
+        <h2>Newyork fashion week's contined the evolution</h2>
+    </div>
+</body>
+</html>
 *{
     margin: 0;
     padding: 0;
